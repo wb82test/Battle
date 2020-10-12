@@ -71,9 +71,4 @@ def battle():
             printStats()
             print("оба друг друга с ноги. смешно.")
 
-
-
-
-
-print("Сражайтес")
 battle()
