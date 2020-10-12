@@ -3,7 +3,7 @@
 # таблицу надо положить в файл.
 
 from random import randint
-
+import numpy
 
 class Voin():
     health = 100
